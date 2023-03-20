@@ -1,0 +1,122 @@
+
+/* ........Universal........ */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .......Header...... */
+#header{
+    /* border: 2px solid black; */
+    display: flex;
+    height: 92px;
+    margin: 30px;
+    margin-left: 71px;
+
+}
+/* .......Left-side........ */
+.left-header{
+    margin: 12px;
+    padding: 2px;
+    height: 64px;
+}
+.left-header img{
+    height: 45px;
+    width: 121px;
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+/* ......Mid....... */
+.mid-header{
+    display: flex;
+    margin: 22px;
+
+}
+.mid-header li{
+    margin: 13px;
+    list-style: none;
+    font-weight: 600;
+
+}
+
+/* .......Right-side.... */
+.btn{
+    position: absolute;
+    right: 67px;
+    margin: 24px;
+    padding: 11px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(81, 81, 163);
+    border: none;
+    width: 106px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .........Main- section..... */
+#section{
+    margin: 34px;
+}
+
+/* ......Left-section...... */
+.left-section{
+    margin: 56px;
+    margin-left: 56px;
+    font-size: 2.2rem;
+    margin-bottom: 25px;
+    margin-top: 76px;
+}
+
+ .left-section h1{
+    /* border: 2px solid black; */
+    width: 35%;
+    color: rgb(19, 19, 92);
+    line-height: 66px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 59px;
+
+}
+.heading span{
+   color:rgb(74, 74, 177);
+}
+
+.bottom p{
+    margin-left: 59px;
+    width: 40%;
+    color: grey;
+}
+
+.see-services{
+    margin-top: 46px;
+    margin-left: 46px;
+}
+.button{
+    margin: 15px;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(81, 81, 163);
+    border: none;
+    width: 143px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ......Left-section...... */
+.right-section{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin-right: 45px;
+    top: 45px;
+    margin-left: 596px;
+    margin-top: 102px;
+}
+ 
+/* ......Right-section....... */
+.right-section img{
+    height: 452px;
+    width: 605px;
+}
